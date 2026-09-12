@@ -42,6 +42,7 @@ While building this project, I practiced:
 Eziokwu Henry Nnaemeka
 
 Frontend Developer & Cybersecurity Student
+https://elcracky21.github.io/Social-Links-Profile/
 
 ## Acknowledgements
 

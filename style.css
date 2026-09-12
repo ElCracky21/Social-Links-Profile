@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: "Inter";
     src: url(./assets/fonts/static/Inter-Bold.ttf)
@@ -51,6 +52,7 @@ body{
     text-align: center;
     width: 100%;
     font-weight: 400;
+    color: whitesmoke
     
 }
 .links{
@@ -75,6 +77,14 @@ body{
 .links a:hover{
     background-color: #c4f82a;
     color: black;
+}
+.attribution { 
+    font-size: 0.6875rem; 
+    text-align: center; 
+    color: whitesmoke;
+}
+.attribution a { 
+    color: hsl(77, 63%, 74%); 
 }
 @media (max-width: 600px){
     .container {
